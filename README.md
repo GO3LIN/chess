@@ -1,0 +1,1 @@
+This project is in alpha. It was done just for learning but might become a true game in the future.

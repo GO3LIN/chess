@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1370992411 source:/home/goblin/chelsi/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1339029244 /home/goblin/chelsi/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1114182784 /home/goblin/chelsi/glmint.h
+
+1074089990 source:/home/goblin/chelsi/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1191937088 source:/home/goblin/chelsi/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+
+1114178906 source:/home/goblin/chelsi/glmimg_devil.c
+	"config.h"
+	"glm.h"
+	"glmint.h"
+	<IL/il.h>
+	<stdlib.h>
+
+1074096962 source:/home/goblin/chelsi/glmimg_jpg.c
+	"config.h"
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<setjmp.h>
+	<string.h>
+	<stdlib.h>
+	<jpeglib.h>
+
+1074096962 source:/home/goblin/chelsi/glmimg_png.c
+	"config.h"
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<png.h>
+
+1074096962 source:/home/goblin/chelsi/glmimg_sdl.c
+	"config.h"
+	"glm.h"
+	"glmint.h"
+	<SDL/SDL_image.h>
+
+1074096962 source:/home/goblin/chelsi/glmimg_sim.c
+	"config.h"
+	"glm.h"
+	"glmint.h"
+	<simage.h>
+
+1370692925 source:/home/goblin/chelsi/main.c
+	<stdio.h>
+	<stdlib.h>
+	<X11/X.h>
+	<X11/Xlib.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	<memory.h>
+	<string.h>
+	"glm.h"
+
+1371830075 /home/goblin/chelsi/tga.h
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
